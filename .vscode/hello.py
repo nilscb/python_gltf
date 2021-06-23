@@ -11,8 +11,8 @@ vertexes = []
 indexes = []
 tex_coords = []
 
-NI = 250
-NJ = 250
+NI = 500
+NJ = 500
 
 
 # vertex's
